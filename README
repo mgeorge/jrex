@@ -3,3 +3,8 @@ Java Regular Expression Tool
 Provides a handy user interface for processing a chunk of text with regular expressions (using Java's regular expression engine).
 
 It is currently functional but was knocked up quick and dirty and the code is a bit of a mess.
+
+The main utility is provided by the RegexTool class.
+
+JSedFrame is an alternate user interface that allows you to 'queue' up replacements regexes.
+
